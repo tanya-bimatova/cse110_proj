@@ -1,6 +1,6 @@
 Hi, my name is
 # Tatiana Bimatova
-# I aspire to be a Computer Science Engineer
+  I aspire to be a Computer Science Engineer
 
 **This is bold text**
 > It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code.  You should be able to read it.
