@@ -5,10 +5,7 @@
 Hi, my name is
 ### Tatiana Bimatova
 **I aspire to be a Computer Science Engineer**
-![This is an image1](https://myoctocat.com/assets/images/base-octocat.svg)
-
 ![This is an image2](/photo.png)
-
 
 Quoting code: Use `git status` to list all new or modified files that haven't yet been committed.
 External Links: This site was built using [GitHub Pages](https://pages.github.com/).
