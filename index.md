@@ -1,6 +1,6 @@
-1. [About](https://github.com/tanya-bimatova/cse110_proj/blob/vs_code/index.md#tatiana-bimatova)
-2. [Education and Experience](https://github.com/tanya-bimatova/cse110_proj/blob/vs_code/index.md#education)
-3. [Contact](https://github.com/tanya-bimatova/cse110_proj/blob/vs_code/index.md#get-in-touch)
+1. [About](index.md#tatiana-bimatova)
+2. [Education and Experience](index.md#education)
+3. [Contact](index.md#get-in-touch)
 
 Hi, my name is
 ### Tatiana Bimatova
