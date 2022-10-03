@@ -5,7 +5,8 @@
 Hi, my name is
 ### Tatiana Bimatova
 **I aspire to be a Computer Science Engineer**
-![This is an image2](/photo.png)
+
+![This is an image](/photo.png)
 
 Quoting code: Use `git status` to list all new or modified files that haven't yet been committed.
 External Links: This site was built using [GitHub Pages](https://pages.github.com/).
@@ -23,6 +24,8 @@ Task lists:
 I am currently looking for a summer internship and projects to participate in.
 Please reach out if you think I'm a good match or just to say hi!
 I'll try my best to get back to you.
+
+[Say Hello](mailto:tanya.bimatova@gmail.com)
 
 
 > It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code.  You should be able to read it.
