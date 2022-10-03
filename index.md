@@ -1,6 +1,6 @@
-1. About
-2. Education and Experience
-3. Contact
+1. [About](https://github.com/tanya-bimatova/cse110_proj/blob/vs_code/index.md#tatiana-bimatova)
+2. [Education and Experience](https://github.com/tanya-bimatova/cse110_proj/blob/vs_code/index.md#education)
+3. [Contact](https://github.com/tanya-bimatova/cse110_proj/blob/vs_code/index.md#get-in-touch)
 4. This site was built using [GitHub Pages](https://pages.github.com/).
 
 
@@ -20,6 +20,11 @@ Task lists:
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+### Get In Touch
+I am currently looking for a summer internship and projects to participate in.
+Please reach out if you think I'm a good match or just to say hi!
+I'll try my best to get back to you.
 
 
 > It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code.  You should be able to read it.
