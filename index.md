@@ -8,17 +8,17 @@ Hi, my name is
 
 ![This is an image](/photo.png)
 
-Quoting code: Use `git status` to list all new or modified files that haven't yet been committed.
-External Links: This site was built using [GitHub Pages](https://pages.github.com/).
+Skills:
+- [x] Java
+- [x] C++
+- [x] Python
+- [x] Patience
+- [x] Conflict resolution
+- [x] Responsibility
 
 ### Education
 - 2019 - 2021: West Valley-Mission Community College
 - 2021 - 2024 (anticipated): UC San Diego
-
-Task lists:
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
 
 ### Get In Touch
 I am currently looking for a summer internship and projects to participate in.
@@ -27,6 +27,8 @@ I'll try my best to get back to you.
 
 [Say Hello](mailto:tanya.bimatova@gmail.com)
 
+
+P.S.: Don't forget `git status` every time you're about to commit! :wink:
 
 > It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code.  You should be able to read it.
 
