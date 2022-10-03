@@ -19,8 +19,10 @@ Skills:
 I enjoy hiking and cross-country skiing. Here's one of my favourite sights to look at in winter: [Snowy forest](/winter_forest.jpg)
 
 ### Education
+Major: Computer Science
+GPA: 3.666
 - 2019 - 2021: West Valley-Mission Community College
-- 2021 - 2024 (anticipated): UC San Diego
+- 2021 - 2024: UC San Diego
 
 ### Get In Touch
 I am currently looking for a summer internship and projects to participate in.
