@@ -16,7 +16,7 @@ Skills:
 - [x] Conflict resolution
 - [x] Responsibility
 
-I enjoy hiking and cross-country skiing. Here's one of my favourite sights to look at in winter: [Snowy forest](/witer_forest.jpg)
+I enjoy hiking and cross-country skiing. Here's one of my favourite sights to look at in winter: [Snowy forest](/winter_forest.jpg)
 
 ### Education
 - 2019 - 2021: West Valley-Mission Community College
