@@ -1,12 +1,13 @@
 1. [About](https://github.com/tanya-bimatova/cse110_proj/blob/vs_code/index.md#tatiana-bimatova)
 2. [Education and Experience](https://github.com/tanya-bimatova/cse110_proj/blob/vs_code/index.md#education)
 3. [Contact](https://github.com/tanya-bimatova/cse110_proj/blob/vs_code/index.md#get-in-touch)
-4. This site was built using [GitHub Pages](https://pages.github.com/).
-
 
 Hi, my name is
 ### Tatiana Bimatova
 **I aspire to be a Computer Science Engineer**
+![This is an image1](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![This is an image2](/photo.png)
 
 
 Quoting code: Use `git status` to list all new or modified files that haven't yet been committed.
